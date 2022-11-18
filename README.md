@@ -2,9 +2,11 @@
 
 I use `he/him` pronouns. I'm fluent in **English** and **Spanish**.
 
-I currently work at Kickstarter 💰🫂
-Previously I worked at SimpleContacts 📱👁️
-And before that I worked at Etsy 🌎🛍️🔨
+I currently work at [Kickstarter](https://www.kickstarter.com/) 💰🫂
+
+Previously I worked at [SimpleContacts](https://simplecontacts.com/) 📱👁️
+
+And before that I worked at [Etsy](https://www.etsy.com/) 🌎🛍️🔨
 
 🖥️ I **don't code in my free time**, so my GitHub repos are somewhat sparse.
 
