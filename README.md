@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**DeMarko/DeMarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use `he/him` pronouns. I'm fluent in **English** and **Spanish**.
 
-Here are some ideas to get you started:
+I currently work at Kickstarter 💰🫂
+Previously I worked at SimpleContacts 📱👁️
+And before that I worked at Etsy 🌎🛍️🔨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ I **don't code in my free time**, so my GitHub repos are somewhat sparse.
+
+💼 I'm currently **not looking for a job**. 
+
+😄✊ You may be interested in [the union contract I helped write](https://kickstarterunited.org/first-contract/), hopefully it inspires your own collective bargaining agreements. If you are interested in unionizing your tech workplace, I'm happy to talk, feel free to find a way to contact me.
+
+ 🚫 If you are a recruiter contacting me for some reason, **don't**. I'm not interested in being your first, second, or even fifth engineer at a startup.
